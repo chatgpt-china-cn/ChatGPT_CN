@@ -1,6 +1,6 @@
 # ChatGPT 中文版：国内直连指南（支持GPT-4、4o、o1、o3 和 DeepSeek R1，无需翻墙）【4月最新更新】
 
-> 更新于：2025/04/04   
+> 更新于：2025/04/05   
 
 **全面体验 [ChatGPT 中文版](https://chat.yixiaai.com)，无需翻墙，支持 GPT-4、4o、o1、o3 和 DeepSeek R1 及中文多功能应用！**    
 本项目旨在为用户提供一站式的 **ChatGPT 中文版使用指南**，同时整理了国内可用的 [**ChatGPT 镜像网站**](https://chat.lanjing.pro) 和**官网使用教程**，帮助您快速上手 ChatGPT，无论是个人使用还是专业需求。
@@ -25,7 +25,7 @@
 ---
 
 ## 什么是 ChatGPT 中文版？
-**ChatGPT 中文版**是由 OpenAI 开发的 ChatGPT 模型的中文优化版本，旨在为中文用户提供更流畅、更精准的 AI 对话体验。相比官方 ChatGPT，**ChatGPT 中文版**在以下方面更适合国内用户：
+[**ChatGPT 中文版**](https://chat.yixiaai.com) 是由 OpenAI 开发的 ChatGPT 模型的中文优化版本，旨在为中文用户提供更流畅、更精准的 AI 对话体验。相比官方 ChatGPT，**ChatGPT 中文版**在以下方面更适合国内用户：
 
 - **中文支持**：提供更流畅的中文对话能力，适用于学习、办公和日常使用。
 - **国内直连**：通过国内镜像网站实现，无需翻墙即可访问。
